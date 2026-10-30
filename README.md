@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# My Favorite Movie Wall-e
+# 🎥 My Favorite Movie Wall-e
 **Released date** - 2008
 1. Wall-e is fun all throughout
 2. Wall-e offers valuable lesson
